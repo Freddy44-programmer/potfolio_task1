@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thabang444
+- 👋 Hi, I’m @Freddy Konyane
 - 👀 I’m interested in technology and how 
 it contributes positively towards our 
 everyday lives. I'm interested in
