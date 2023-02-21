@@ -8,6 +8,15 @@ color: #777;
 line-height: 1.7;
 }
 
+#nav{
+    
+    text-align: center;
+    margin-right: 50px; 
+    margin-top: 16px;
+     margin-bottom: 16px;
+      margin-left: 50px; 
+}
+
 .container {
 max-width: 1140px;
 margin: 0 auto;
